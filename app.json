@@ -1,6 +1,6 @@
 {
-  "name": "سورس 𝗟𝗘𝗮𝗗𝗲𝗥🦅 -  𝗟𝗘𝗮𝗗𝗲𝗥🦅𝐀𝐑𝐀𝐁𝐈𝐂",
-  "description": " اهلابك في تنصيب تلثيون 𝗟𝗘𝗮𝗗𝗲𝗥🦅- ",
+  "name": "سورس maro🦅 -  maro🦅𝐀𝐑𝐀𝐁𝐈𝐂",
+  "description": " اهلابك في تنصيب تلثيون 🦅- ",
   "logo": "https://graph.org/file/715be1fa3d1177407f30a.jpg",
   "keywords": [
     "plugin",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيره ابداً",
-      "value": "https://github.com/devmonzer08/MONZEER",
+      "value": "https://github.com/Karimgamal12/SOURCEMARO72",
       "required": false
     }
     },
