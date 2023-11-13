@@ -71,7 +71,7 @@ repo.heads[ACTIVE_BRANCH_NAME].checkout(True) ')
 _start_bot () {
     local zippath
     zippath="PPF22.zip"
-    echo "⌭ جاري تنزيل اكواد السورس البوب يبلف ⌭"
+    echo "⌭ جاري تنزيل اكواد السورس البوب  ⌭"
     wget -q $(_get_zlink) -O "$zippath"
     echo "⌭ تفريغ البيانات ⌭"
     CATPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
